@@ -4,7 +4,10 @@
  
 ### Requirements
 Platform: Linux
+
 Python version >=3.6.5
+
+Please ensure that you are logged out from Codechef and have 0 existing sessions before running this script.
 
 ### Installation
 
