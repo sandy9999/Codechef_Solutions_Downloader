@@ -9,7 +9,7 @@
 
 **Please ensure that you are logged out from Codechef and have 0 existing sessions before running this script.**
 
-##Installation
+Installation
 
 Build from Source:
 
