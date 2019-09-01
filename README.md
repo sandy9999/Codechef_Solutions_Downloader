@@ -1,3 +1,5 @@
+https://travis-ci.org/sandy9999/Codechef_Solutions_Downloader.svg?branch=master
+
 # Codechef Solutions Downloader
 
  Codechef Solutions Downloader is a script to download your Codechef solutions locally on your PC.
