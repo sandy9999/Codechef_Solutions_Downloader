@@ -1,4 +1,4 @@
-https://travis-ci.org/sandy9999/Codechef_Solutions_Downloader.svg?branch=master
+[![Build Status](https://travis-ci.org/sandy9999/Codechef_Solutions_Downloader.svg?branch=master.png)](https://travis-ci.org/sandy9999/Codechef_Solutions_Downloader.svg?branch=master)
 
 # Codechef Solutions Downloader
 
